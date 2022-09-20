@@ -3,5 +3,6 @@
 	"[svelte]": {
 		"editor.defaultFormatter": "svelte.svelte-vscode"
 	},
-	"quokka.automaticRestart": true
+	"quokka.automaticRestart": true,
+	"quokka.untrustedWorkspaceBehavior": "Always allow"
 }
