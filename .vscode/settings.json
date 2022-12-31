@@ -1,10 +1,11 @@
 {
-	"editor.formatOnSave": true,
-	"[svelte]": {
-		"editor.defaultFormatter": "svelte.svelte-vscode",
-		"editor.guides.bracketPairs": true,
-		"editor.guides.highlightActiveBracketPair": true
-	},
-	"quokka.automaticRestart": true,
-	"quokka.untrustedWorkspaceBehavior": "Always allow"
+  "editor.formatOnSave": true,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode",
+    "editor.guides.bracketPairs": true,
+    "editor.guides.highlightActiveBracketPair": true
+  },
+  "quokka.automaticRestart": true,
+  "quokka.untrustedWorkspaceBehavior": "Always allow",
+  "tailwindCSS.emmetCompletions": true
 }
