@@ -10,5 +10,12 @@
   "tailwindCSS.emmetCompletions": true,
   "svelte.plugin.svelte.defaultScriptLanguage": "ts",
   "svelte.enable-ts-plugin": true,
-  "npm.packageManager": "pnpm"
+  "npm.packageManager": "pnpm",
+  "volar.takeOverMode.enabled": false,
+  "js/ts.implicitProjectConfig.target": "ESNext",
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "css.format.braceStyle": "expand",
+  "color-highlight.markerType": "dot-after"
 }
