@@ -7,5 +7,8 @@
   },
   "quokka.automaticRestart": true,
   "quokka.untrustedWorkspaceBehavior": "Always allow",
-  "tailwindCSS.emmetCompletions": true
+  "tailwindCSS.emmetCompletions": true,
+  "svelte.plugin.svelte.defaultScriptLanguage": "ts",
+  "svelte.enable-ts-plugin": true,
+  "npm.packageManager": "pnpm"
 }
