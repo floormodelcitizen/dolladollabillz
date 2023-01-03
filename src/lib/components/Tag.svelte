@@ -1,5 +1,6 @@
 <script lang="ts">
   export let label: 'draft' | 'sent' | 'current' | 'late' | 'paid' = 'draft'
+  export const className: string = ''
 </script>
 
 <div

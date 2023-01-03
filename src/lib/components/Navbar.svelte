@@ -2,7 +2,6 @@
   import { page } from '$app/stores'
   import Close from '$lib/components/icon/Close.svelte'
   import Hamburger from '$lib/components/icon/Hamburger.svelte'
-  import { append } from 'svelte/internal'
 
   let isNavShowing = false
 </script>

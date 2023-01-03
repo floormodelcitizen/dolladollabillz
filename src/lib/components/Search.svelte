@@ -2,8 +2,8 @@
   import SearchIcon from './icon/SearchIcon.svelte'
 </script>
 
-<div class="relative  flex w-full items-baseline">
-  <div class="mr-2 text-pastelPurple mt-auto">
+<div class="relative flex w-full items-baseline">
+  <div class="mr-2 mt-auto text-pastelPurple ">
     <SearchIcon />
   </div>
   <input
