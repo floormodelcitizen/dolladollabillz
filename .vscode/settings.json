@@ -12,10 +12,34 @@
   "svelte.enable-ts-plugin": true,
   "npm.packageManager": "pnpm",
   "volar.takeOverMode.enabled": false,
-  "js/ts.implicitProjectConfig.target": "ESNext",
+  "js/ts.implicitProjectConfig.target": "ES2020",
   "emmet.includeLanguages": {
     "postcss": "css"
   },
   "css.format.braceStyle": "expand",
-  "color-highlight.markerType": "dot-after"
+  "color-highlight.markerType": "dot-after",
+  
+  "svelte.plugin.svelte.format.config.printWidth": 120,
+  "svelte.plugin.svelte.format.config.singleQuote": true,
+  "svelte.plugin.svelte.format.config.svelteBracketNewLine": false,
+  "js/ts.implicitProjectConfig.module": "ESNext",
+  "editor.guides.bracketPairs": "active",
+  "prettier.bracketSameLine": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "workbench.colorCustomizations": {
+    /* error squiggles */
+    "editorError.foreground": "#f986c4",
+  
+    /* warning squggles */
+    "editorWarning.foreground": "#ffc400",
+  
+    /* info squiggles */
+    "editorInfo.foreground": "#35ffab"
+  },
+  "svelte.plugin.svelte.compilerWarnings": {
+    "a11y-invalid-attribute": "ignore"
+  },
+  "workbench.preferredHighContrastLightColorTheme": "Monokai Dimmed",
+  "workbench.preferredLightColorTheme": "Quiet Light"
 }
