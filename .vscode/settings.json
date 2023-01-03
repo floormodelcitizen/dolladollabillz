@@ -41,5 +41,11 @@
     "a11y-invalid-attribute": "ignore"
   },
   "workbench.preferredHighContrastLightColorTheme": "Monokai Dimmed",
-  "workbench.preferredLightColorTheme": "Quiet Light"
+  "workbench.preferredLightColorTheme": "Quiet Light",
+  "cSpell.words": [
+    "Anywhereville",
+    "Kalam",
+    "Nowhereville",
+    "Somewhereville"
+  ]
 }
